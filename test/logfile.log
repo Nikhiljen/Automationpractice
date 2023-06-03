@@ -1,0 +1,78 @@
+2023-05-22 07:13:18,595 :INFO :test_e2e :iphone X
+2023-05-22 07:13:18,619 :INFO :test_e2e :Samsung Note 8
+2023-05-22 07:13:18,641 :INFO :test_e2e :Nokia Edge
+2023-05-22 07:13:18,662 :INFO :test_e2e :Blackberry
+2023-05-22 07:13:18,943 :INFO :test_e2e :Entering a country name as ind
+2023-05-22 07:14:36,214 :INFO :test_e2e :iphone X
+2023-05-22 07:14:36,237 :INFO :test_e2e :Samsung Note 8
+2023-05-22 07:14:36,275 :INFO :test_e2e :Nokia Edge
+2023-05-22 07:14:36,298 :INFO :test_e2e :Blackberry
+2023-05-22 07:14:36,507 :INFO :test_e2e :Entering a country name as ind
+2023-05-22 07:16:25,136 :INFO :test_e2e :iphone X
+2023-05-22 07:16:25,155 :INFO :test_e2e :Samsung Note 8
+2023-05-22 07:16:25,172 :INFO :test_e2e :Nokia Edge
+2023-05-22 07:16:25,190 :INFO :test_e2e :Blackberry
+2023-05-22 07:16:25,366 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:08:17,780 :INFO :test_e2e :iphone X
+2023-05-30 08:08:17,829 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:08:17,852 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:08:17,871 :INFO :test_e2e :Blackberry
+2023-05-30 08:08:18,093 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:23:35,186 :INFO :test_e2e :iphone X
+2023-05-30 08:23:35,206 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:23:35,226 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:23:35,244 :INFO :test_e2e :Blackberry
+2023-05-30 08:23:35,407 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:25:35,993 :INFO :test_e2e :iphone X
+2023-05-30 08:25:36,013 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:25:36,035 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:25:36,054 :INFO :test_e2e :Blackberry
+2023-05-30 08:25:36,216 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:27:54,634 :INFO :test_e2e :iphone X
+2023-05-30 08:27:54,654 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:27:54,673 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:27:54,694 :INFO :test_e2e :Blackberry
+2023-05-30 08:27:54,857 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:33:02,241 :INFO :test_e2e :iphone X
+2023-05-30 08:33:02,258 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:33:02,279 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:33:02,296 :INFO :test_e2e :Blackberry
+2023-05-30 08:33:02,474 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:35:48,567 :INFO :test_e2e :iphone X
+2023-05-30 08:35:48,588 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:35:48,610 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:35:48,637 :INFO :test_e2e :Blackberry
+2023-05-30 08:35:48,830 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:37:01,492 :INFO :test_e2e :iphone X
+2023-05-30 08:37:01,513 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:37:01,533 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:37:01,553 :INFO :test_e2e :Blackberry
+2023-05-30 08:37:01,721 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:38:08,632 :INFO :test_e2e :iphone X
+2023-05-30 08:38:08,649 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:38:08,665 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:38:08,681 :INFO :test_e2e :Blackberry
+2023-05-30 08:38:08,840 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:38:14,469 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-05-30 08:39:24,401 :INFO :test_e2e :iphone X
+2023-05-30 08:39:24,422 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:39:24,442 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:39:24,462 :INFO :test_e2e :Blackberry
+2023-05-30 08:39:24,629 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:39:30,222 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-05-30 08:42:58,420 :INFO :test_e2e :iphone X
+2023-05-30 08:42:58,440 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:42:58,460 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:42:58,480 :INFO :test_e2e :Blackberry
+2023-05-30 08:42:58,644 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:43:04,195 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-05-30 08:43:40,022 :INFO :test_e2e :iphone X
+2023-05-30 08:43:40,048 :INFO :test_e2e :Samsung Note 8
+2023-05-30 08:43:40,065 :INFO :test_e2e :Nokia Edge
+2023-05-30 08:43:40,082 :INFO :test_e2e :Blackberry
+2023-05-30 08:43:40,246 :INFO :test_e2e :Entering a country name as ind
+2023-05-30 08:43:45,836 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
